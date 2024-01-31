@@ -41,4 +41,4 @@ $ ./webui.sh --precision full --no-half
 - [Deforumで使用出来るFrame interpolateについて試してみた](https://note.com/gentle_murre488/n/nd607621751f1)
 
 ## Credit
-- Illustraion by ziro_
+- Illustration by ziro_
