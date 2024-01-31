@@ -25,7 +25,7 @@ $ cd stable-diffusion-webui
 ```
 $ ./webui.sh --precision full --no-half
 ```
-- I installed *deforum* on the WebUI referring to [this article](https://romptn.com/article/17991).
+- I installed *deforum* on the WebUI referring to [this article](https://romptn.com/article/17991#toc2).
 - I installed [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) on the WebUI referring to [this article](https://romptn.com/article/7868#toc5).
 ### Applying
 - I prepared the video, which has a frame rate of 2 fps and a duration of 1 second, for frame interpolation:
@@ -39,3 +39,6 @@ $ ./webui.sh --precision full --no-half
 ](https://romptn.com/article/17991)
 - [MacでStableDiffusionWebUIを試す](https://zenn.dev/ymmt1089/scraps/02f4c6ebc49b80)
 - [Deforumで使用出来るFrame interpolateについて試してみた](https://note.com/gentle_murre488/n/nd607621751f1)
+
+## Credit
+- Illustraion by ziro_
