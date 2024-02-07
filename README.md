@@ -32,7 +32,7 @@ $ ./webui.sh --precision full --no-half
 ![input](https://github.com/mozu-dev/frame-interpolation/blob/main/images/input.gif)
 - I applied frame interpolation to the video by referring to [this article](https://note.com/gentle_murre488/n/nd607621751f1), setting `RIFE v4.6` for the engine and `5` for the Interp X.
 - I got a frame-interpolated video:
-![output](https://github.com/mozu-dev/frame-interpolation/blob/main/images/output_RIFE_x5.gif)
+![output](https://github.com/mozu-dev/frame-interpolation/blob/main/images/output_RIFE_x10.gif)
 
 ## References
 - [Stable Diffusionの拡張機能『Deforum』の使い方！アニメーション動画を作ろう
